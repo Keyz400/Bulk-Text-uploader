@@ -22,7 +22,6 @@ import logging
 import os
 import sys
 from config import Config
-import re
 from pyrogram import Client as bot
 DEF_FORMAT = "480"
 from dotenv import load_dotenv
